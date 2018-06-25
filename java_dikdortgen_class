@@ -1,0 +1,23 @@
+package com.fatihkocapinar
+public class Dikdortgen
+{
+public static void main(String [] args)
+{
+      private en;
+      private boy;
+      
+      public Dikdortgen ()
+      {
+            en = 1;
+            boy = 1;
+      }
+      
+      public Dikdortgen (int en, int boy)
+      {
+            this.en = en;
+            this.boy = boy;
+      }
+      // create setter and getters 
+      
+}
+}
